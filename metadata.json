@@ -1,0 +1,6 @@
+{
+  "name": "Sankalp AI",
+  "description": "AI-powered study planner, mock test tracker, revision notes generator and streak consistency gamifier for Indian govt exam aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
